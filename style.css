@@ -10,7 +10,6 @@ footer {
 footer .footer_block_one {
   width: 460px;
   height: 350px;
-  border-right: 1px white solid;
 }
 footer .footer_block_one img {
   margin-top: 14px;
@@ -27,7 +26,6 @@ footer .footer_block_one .footer_block_one_text {
   color: white;
 }
 footer .footer_block_two {
-  border-right: 1px solid white;
   width: 400px;
   height: 350px;
 }
@@ -83,7 +81,8 @@ footer .footer_block_three {
   height: 350.62;
 }
 footer .footer_block_three h1 {
-  margin-top: 18px;
+  margin-left: 30px;
+  margin-top: 5px;
   font-family: "Kreon";
   font-style: normal;
   font-weight: 400;
@@ -95,7 +94,6 @@ footer .footer_block_three .footer_block_three_text_one {
   width: 1073px;
   margin-top: 15px;
   margin-left: 13px;
-  border-bottom: 1px solid #FFFFFF;
   font-family: "Kreon";
   font-style: normal;
   font-weight: 400;
@@ -113,13 +111,11 @@ footer .footer_block_three .footer_block_three_text_two {
   color: #FFFFFF;
   margin-left: 13px;
   margin-top: 15px;
-  border-bottom: 1px solid #FFFFFF;
 }
 footer .footer_block_three .footer_block_three_text_three {
   width: 1055.54px;
   margin-left: 13px;
   margin-top: 15px;
-  border-bottom: 1px solid #FFFFFF;
   font-family: "Kreon";
   font-style: normal;
   font-weight: 400;
