@@ -27,16 +27,15 @@ footer .footer_block_one .footer_block_one_text {
 }
 footer .footer_block_two {
   width: 400px;
-  height: 350px;
+  height: 172px;
 }
-footer .footer_block_two P {
-  margin-left: 35px;
-  margin-top: 9px;
+footer .footer_block_two .footer_block_two_text {
   font-family: "Kreon";
   font-style: normal;
   font-weight: 400;
   font-size: 28px;
   line-height: 35px;
+  margin-left: 20px;
   color: #FFFFFF;
 }
 footer .footer_block_two .footer_block_two_mail {
@@ -74,13 +73,30 @@ footer .footer_block_two .footer_block_two_map P {
   font-size: 20px;
   line-height: 25px;
   color: #FFFFFF;
-  margin-top: -23px;
+  margin-top: -24px;
+  margin-left: 20px;
 }
-footer .footer_block_three {
+footer .footer_block_two .footer_block_two_schedule .footer_block_two_schedule_text {
+  font-family: "Kreon";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 44px;
+  color: #FFFFFF;
+  margin-left: 20px;
+}
+footer .footer_block_two .footer_block_two_schedule_time .footer_block_two_schedule_time_img {
+  width: 200px;
+  height: 80px;
+  margin-top: -30px;
+  margin-left: 28px;
+}
+
+.footer_block_three {
   width: 1085px;
   height: 350.62;
 }
-footer .footer_block_three h1 {
+.footer_block_three h1 {
   margin-left: 30px;
   margin-top: 5px;
   font-family: "Kreon";
@@ -90,7 +106,7 @@ footer .footer_block_three h1 {
   line-height: 40px;
   color: #FFFFFF;
 }
-footer .footer_block_three .footer_block_three_text_one {
+.footer_block_three .footer_block_three_text_one {
   width: 1073px;
   margin-top: 15px;
   margin-left: 13px;
@@ -101,7 +117,7 @@ footer .footer_block_three .footer_block_three_text_one {
   line-height: 25px;
   color: #FFFFFF;
 }
-footer .footer_block_three .footer_block_three_text_two {
+.footer_block_three .footer_block_three_text_two {
   width: 1042.11px;
   font-family: "Kreon";
   font-style: normal;
@@ -112,7 +128,7 @@ footer .footer_block_three .footer_block_three_text_two {
   margin-left: 13px;
   margin-top: 15px;
 }
-footer .footer_block_three .footer_block_three_text_three {
+.footer_block_three .footer_block_three_text_three {
   width: 1055.54px;
   margin-left: 13px;
   margin-top: 15px;
@@ -123,7 +139,7 @@ footer .footer_block_three .footer_block_three_text_three {
   line-height: 25px;
   color: #FFFFFF;
 }
-footer .footer_block_three .footer_block_three_text_four {
+.footer_block_three .footer_block_three_text_four {
   width: 1055.54px;
   margin-left: 13px;
   margin-top: 15px;

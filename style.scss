@@ -31,16 +31,15 @@ footer{
     }
     .footer_block_two{
         width:400px ;
-        height: 350px;
-        P{
-            margin-left: 35px;
-            margin-top: 9px;
+        height: 172px;
+        .footer_block_two_text{
             font-family: 'Kreon';
             font-style: normal;
             font-weight: 400;
             font-size: 28px;
             line-height: 35px;
-
+            margin-left: 20px;
+            
             color: #FFFFFF;
         }
         .footer_block_two_mail{
@@ -81,10 +80,33 @@ footer{
                 line-height: 25px;
                 
                 color: #FFFFFF;
-                margin-top: -23px;
+                margin-top: -24px;
+                margin-left: 20px;
+            }
+        }
+        .footer_block_two_schedule{
+            .footer_block_two_schedule_text{
+                font-family: 'Kreon';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 28px;
+                line-height: 44px;
+                
+                color: #FFFFFF;
+                margin-left: 20px;
+            }
+        }
+        .footer_block_two_schedule_time{
+            .footer_block_two_schedule_time_img{
+                width: 200px;
+                height: 80px;
+                margin-top: -30px;
+                margin-left: 28px;
             }
         }
     }
+    }
+    
     .footer_block_three{
         width:1085px ;
         height: 350.62;
@@ -153,5 +175,3 @@ footer{
             color: #FFFFFF;
         }
     }
-
-}
